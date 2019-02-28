@@ -1,0 +1,5 @@
+server:
+  port: 8080
+name: nkm
+age: 25
+content: "name：${name},,,,age：${age}"
